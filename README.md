@@ -1,0 +1,1 @@
+# cryptomine-gh-script
